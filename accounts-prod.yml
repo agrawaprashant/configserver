@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+accounts:
+  message: "Welcome to XYZ Bank Account Prod Service."
+  contact_details:
+    name: "Prashant Agrawal"
+    email: "agrawaprashant@gmail.com"
+  phones:
+    - 8619220058
+    - 1231123123
