@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to XYZ Bank Account Prod Service."
   contact_details:
     name: "Prashant Agrawal"
-    email: "(cipher)625fd692814edd2e3c5766f20ba76dd6e875dd5f89274e1566147126de042222e033590d449b14ef184bfc399fcfc207"
+    email: "{cipher}625fd692814edd2e3c5766f20ba76dd6e875dd5f89274e1566147126de042222e033590d449b14ef184bfc399fcfc207"
   phones:
     - 8619220058
     - 1231123123
