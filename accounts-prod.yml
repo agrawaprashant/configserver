@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to XYZ Bank Account production Service."
+  message: "Welcome to XYZ Bank Account prod Service."
   contact_details:
     name: "Prashant Agrawal"
     email: "{cipher}625fd692814edd2e3c5766f20ba76dd6e875dd5f89274e1566147126de042222e033590d449b14ef184bfc399fcfc207"
