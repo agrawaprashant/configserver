@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 loans:
-  message: "Welcome to XYZ Bank Loans Prod Service."
+  message: "Welcome to XYZ Bank Loans production Service."
   contact_details:
     name: "Prashant Agrawal"
     email: "agrawaprashant@gmail.com"
