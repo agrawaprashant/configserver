@@ -1,7 +1,7 @@
 build:
   version: 1.0
 
-accounts:
+cards:
   message: "Welcome to XYZ Bank Card Prod Service."
   contact_details:
     name: "Prashant Agrawal"
